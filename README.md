@@ -47,14 +47,14 @@ The dataset offers a comprehensive view of user behavior, transaction patterns, 
 - **Demographic Insights**: What percentage of users are grouped by language and gender?  
 - **Protocol Preferences**: How do users vary based on the network protocols they use?  
 
----
+
 
 #### **Returns and Refunds**
 - **Recent Returns**: How many transactions were returned in the last 30 minutes?  
 - **Protocol Trends**: What is the trend of returned amounts by network protocol?  
 - **Browser Insights**: What is the total returned amount for each browser?  
 
----
+
 
 #### **Performance Metrics**
 - **Peak Data Usage**: What are the peak hours for data usage, segmented by membership type?  
