@@ -58,4 +58,10 @@ The dataset offers a comprehensive view of user behavior, transaction patterns, 
 
 #### **Performance Metrics**
 - **Peak Data Usage**: What are the peak hours for data usage, segmented by membership type?  
-- **Country-Wise Consumption**: How is data consumption distributed across different countries?  
+- **Country-Wise Consumption**: How is data consumption distributed across different countries?
+
+
+## Dashboard
+
+https://github.com/user-attachments/assets/300ec9c6-59ba-4bd0-8249-54281dcba083
+
