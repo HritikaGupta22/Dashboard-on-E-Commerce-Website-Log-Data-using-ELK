@@ -1,4 +1,6 @@
 # Dashboard-on-E-Commerce-Website-Log-Data-using-ELK
+## Methodology
+The dataset has taken from Kaggle(https://www.kaggle.com/datasets/kzmontage/e-commerce-website-logs/data). The dashboard is constructed using ELK in Kibana. 
 
 ## About Dataset
 
@@ -65,3 +67,8 @@ The dataset offers a comprehensive view of user behavior, transaction patterns, 
 
 https://github.com/user-attachments/assets/300ec9c6-59ba-4bd0-8249-54281dcba083
 
+
+##  Interpretations
+
+
+## Managerial Implications
