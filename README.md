@@ -32,6 +32,13 @@ This dataset contains log data from an e-commerce website, created for practicin
 The dataset offers a comprehensive view of user behavior, transaction patterns, and platform usage, making it suitable for analyzing engagement, sales trends, and return rates. It is ideal for understanding consumer behavior, platform performance, and revenue generation strategies in the e-commerce domain.
 
 ## Question on this data
+
+#### **General Questions **
+- **What is Total Sales?**
+- **What is Average Duration(secs)?**
+- **What is the most occurence IP Address?**
+- **What is the Total Returned Amount?**
+  
 #### **Sales and Revenue Analysis**
 - **Trends Over Time**: How have sales evolved across different time periods?  
 - **Geographic Contribution**: Which countries contribute the most to overall sales?  
