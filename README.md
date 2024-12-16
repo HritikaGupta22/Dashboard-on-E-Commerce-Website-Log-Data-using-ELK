@@ -109,3 +109,27 @@ https://github.com/user-attachments/assets/300ec9c6-59ba-4bd0-8249-54281dcba083
 
 
 ## Managerial Implications
+**Sales and Revenue:**
+- Focus expansion efforts on top contributing countries like the US, Canada, UK, Germany, and France to drive further sales growth.
+- Promote credit card payments as the dominant method, while also exploring ways to increase cash and debit card adoption.
+- Ensure product offerings and marketing appeal to both male and female users given the even sales split.
+- Prioritize enhancing the "Normal" membership tier as it accounts for most sales.
+- Optimize website and app performance for HTTP and TCP protocols to maximize sales across popular access channels.
+
+**User Engagement:**
+- Investigate drivers of user count peaks to understand high-demand periods and adjust resources accordingly. 
+- Develop targeted strategies for the 30-40 age group who have the highest session durations.
+- Expand in top user locations of US, Canada, UK, Germany, France to grow the customer base.
+- Optimize Android and Chrome experiences as they are the dominant data consumers.
+- Enhance language support, focusing on serving the large English-speaking user base.
+- Ensure reliable TCP protocol performance to meet the needs of the highest user count.
+
+**Returns Management:**
+- Analyze root causes of higher returns on UDP protocol to address any issues.
+- Investigate user experience problems with Android and Chrome to reduce return volumes.
+- Implement proactive customer service strategies to minimize return-related concerns.
+
+**Operational Efficiency:**
+- Allocate resources to meet high data usage demands of "Normal" membership users.
+- Expand capacity and improve performance in North America and Europe, the regions with highest consumption.
+- Continuously monitor and optimize network protocols, browsers, and regional performance.
