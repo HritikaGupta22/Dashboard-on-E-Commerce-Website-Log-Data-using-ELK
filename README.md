@@ -38,7 +38,6 @@ The dataset offers a comprehensive view of user behavior, transaction patterns, 
 - **Membership Impact**: How do different membership types (free vs. premium) affect sales trends?  
 - **Network Protocol Analysis**: Is there a relationship between network protocols and sales generated?  
 
----
 
 #### **User Behavior Trends**
 - **User Growth**: How has the number of users changed over time?  
