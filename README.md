@@ -26,4 +26,7 @@ This dataset contains log data from an e-commerce website, created for practicin
   - `returned_amount`: Value of returned items.
   - `pay_method`: Payment method used (e.g., credit card, PayPal).
 
+
+## Question 
+
 The dataset offers a comprehensive view of user behavior, transaction patterns, and platform usage, making it suitable for analyzing engagement, sales trends, and return rates. It is ideal for understanding consumer behavior, platform performance, and revenue generation strategies in the e-commerce domain.
